@@ -1,5 +1,5 @@
 # SpotifyAutomation
-A script that takes liked videos on Youtube and makes a spotify playlist out of it.
+A script in Python that takes liked videos on Youtube and makes a spotify playlist out of it.
 
 ## Requirements
 * [Youtube Data API v3](https://developers.google.com/youtube/v3)
